@@ -6,7 +6,7 @@ version = '3.0.8'
 setup(name='collective.js.d3',
       version=version,
       description="D3.js integration for Plone",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
