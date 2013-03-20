@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '3.0.8'
+version = '3.0.8.1'
 
 setup(name='collective.js.d3',
       version=version,
